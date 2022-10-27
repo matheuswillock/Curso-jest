@@ -1,0 +1,23 @@
+{
+  "name": "curso-jest",
+  "version": "1.0.0",
+  "description": "Pequeno aprendizado de sobre jest - Testes para Js e Ts",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheuswillock/Curso-jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matheuswillock/Curso-jest/issues"
+  },
+  "homepage": "https://github.com/matheuswillock/Curso-jest#readme",
+  "devDependencies": {
+    "jest": "^29.2.2"
+  }
+}
